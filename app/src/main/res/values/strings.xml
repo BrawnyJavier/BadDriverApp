@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Bad Driver</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="failed_label">Please check you credentials</string>
+    <string name="success_label">Success!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_failed">Failed to create account.</string>
+    <string name="or_label">or</string>
+    <string name="please_fill_the_required_information">Please fill the required information:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="opening_camera_label">Opening Camera</string>
+    <string name="send">Send</string>
+    <string name="description">Description</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="select_pictures_title">Upload Pictures Option</string>
+    <string name="select_pictures_msg">How do you want to set your picture?</string>
+    <string name="gallery">Gallery</string>
+    <string name="rating">Rating</string>
+    <string name="email">Reported By:</string>
+    <string name="Date">Date:</string>
+    <string name="Title">Title</string>
+    <string name="Location">Location of the Accident</string>
+    <string name="Share">Share</string>
+    <string name="SelectShareApp">Select the app/contact you want to share this accident with.</string>
+    <string name="ReportTitleLabel">Report an accident near you</string>
+    <string name="SharedVia">Shared via Altice\'s BadDriver App</string>
+    <string name="ShareNoAppFoundError">Seems you cannot share this with any app.</string>
+    <string name="LatestsReports">LATEST REPORTS</string>
+    <string name="Email">Email</string>
+</resources>
