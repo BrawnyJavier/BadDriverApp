@@ -88,13 +88,14 @@ public class MainActivity extends AppCompatActivity implements
 
     @Override
     public void onBackPressed() {
-        int count = getFragmentManager().getBackStackEntryCount();
+        int count = getSupportFragmentManager().getBackStackEntryCount();
 
         if (count == 0) {
             super.onBackPressed();
             //additional code
         } else {
-            getFragmentManager().popBackStack();
+            getSupportFragmentManager()
+                   .popBackStackImmediate();
         }
     }
 
